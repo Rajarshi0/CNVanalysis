@@ -23,7 +23,9 @@ sudo apt-get -y samtools
 It is expected that the sequence files will be there in a single folder. which contains reference genome. For downloading we can simply use the wget function.
 
 ```
-wget <reference genome link> 
+wget <reference genome link>
+wget https://hgdownload.soe.ucsc.edu/goldenPath/ce11/bigZips/ce11.fa.gz
+
 wget <links of sequence files>
 ```
 
