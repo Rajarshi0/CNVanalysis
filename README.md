@@ -41,5 +41,5 @@ gzip -d ce11.fa.gz > ce11.fa
 cnvpytor -root ce11_gc_file.pytor -gc ce11.fa -make_gc_file
 ```
 
-**I hope after doing this the script will run smoothly. It is uploaded here only. Thank you so much**
+**I hope after this the script will run smoothly. It is uploaded here only. Thank you so much**
 
